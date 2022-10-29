@@ -1,4 +1,1 @@
-Currently learning:
-Python
-Java
-Kotlin
+Currently learning: Python, Java, Kotlin
